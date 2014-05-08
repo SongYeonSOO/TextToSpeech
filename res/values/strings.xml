@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text To Speech </string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Ana Sayfa</item>
+        <item >Favoriler</item>
+        <item >RSS Reader</item>
+        <item >Ayarlar</item>
+        <item >Hakkımızda</item>
+        <item >Çıkış</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="STR_YAZARLAR">Cemre YOLDURAK\n\nSelim COŞKUN\n\nSefer SEZER\n\nSüheyla DOĞAN\n\nFeyyaz AYDOĞDU\n\nGurur Orkun Ürensel</string>
+    <string name="STR_UNIVERSITE">Trakya Üniversitesi Bilgisayar Mühendisliği 2013 - 2014\n\nProje-1</string>
+    <string-array name="strarray_Kategoriler">
+        <item>Dünya</item>
+        <item>Ekonomi</item>
+        <item>Magazin</item>
+        <item>Siyaset</item>
+        <item>Teknoloji</item>
+    </string-array>
+
+</resources>
